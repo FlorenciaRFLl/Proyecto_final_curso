@@ -25,7 +25,7 @@ async def home():
     <html lang="es">
     <head>
         <meta charset="UTF-8">
-        <title>API de Reservas</title>
+        <title>API Biblioteca</title>
         <style>
             body {
                 background-color: #1e1e1e;
@@ -66,7 +66,7 @@ async def home():
         </style>
     </head>
     <body>
-        <h1>API de Reservas</h1>
+        <h1>API para Biblioteca</h1>
         <p>Bienvenido. Accedé a la documentación interactiva de esta API RESTful.</p>
         <div>
             <a href="/docs" class="button">📘 Swagger UI</a>
